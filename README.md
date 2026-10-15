@@ -11,7 +11,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [Dance Coach](https://github.com/yasanomani/dance-coach) | Learn dances from video with live pose scoring in the browser. No backend. | JS, MediaPipe, Web Audio |
-| [NULLZONE](https://github.com/yasanomani/nullzone) | Cyberpunk wave-shooter with bosses, loadouts, procedural audio | JS, Canvas, Web Audio |
+| [NULLZONE](https://github.com/yasanomani/nullzone) | 3D cyberpunk highway racer with traffic, boost and drift | JS, Three.js, Web Audio |
 | [Gesture Theremin](https://github.com/yasanomani/gesture-theremin) | Play a theremin with your hands through your webcam | JS, MediaPipe |
 | [WiFi Motion Radar](https://github.com/yasanomani/wifi-motion-radar) | Detects movement in a room from WiFi signal wobble | Python, CoreWLAN |
 | [Everclean Carwash Simulator](https://github.com/yasanomani/everclean-carwash-simulator) | Shift simulator based on my real car wash job | JS, HTML5 |
@@ -19,5 +19,5 @@
 | [Resume Tailor](https://github.com/yasanomani/resume-tailor) | Tailors a resume to a job description with Claude | Python, Flask, Claude API |
 
 ## Links
-- LinkedIn: _add link_
+- LinkedIn: [Yasa Nomani](https://www.linkedin.com/in/yasa-nomani-559a353a9/)
 - Business: atlasenvisions@gmail.com
