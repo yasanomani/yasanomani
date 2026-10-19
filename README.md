@@ -12,7 +12,7 @@
 ## Passion projects
 | Project | What it is |
 |---|---|
-| [Gesture Theremin](https://github.com/yasanomani/gesture-theremin) · [live](https://yasastheremin.netlify.app/) | Play a theremin with your hands through your webcam. |
+| [Gesture Theremin](https://github.com/yasanomani/gesture-theremin) · [live]([https://yasastheremin.netlify.app/](https://yasastheremin.netlify.app/)) | Play a theremin with your hands through your webcam. |
 | [Everclean Carwash Simulator](https://github.com/yasanomani/everclean-carwash-simulator) · [live](https://yasas-everclean-carwash-simulator.netlify.app/) | Pixel-art shift simulator inspired by my real car wash job. |
 
 ## Links
